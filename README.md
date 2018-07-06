@@ -27,9 +27,9 @@
         });
 ```
 
-![image](verificationCodes/微信图片_20180706145727_看图王.png)
+![image](https://github.com/verificationCodes/微信图片_20180706145727_看图王.png)
 
-![image](verificationCodes/微信图片_20180706145723_看图王.png)
+![image](https://github.com/verificationCodes/微信图片_20180706145723_看图王.png)
 
 
 
